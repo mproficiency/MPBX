@@ -1,7 +1,7 @@
 <p align="center">
-![Alt text](https://raw.githubusercontent.com/mproficiency/MPBX/master/Intro.jpg "Multiverse Proficiency BOX")
- <br><br>
-#Multiverse Proficiency BOX
+ <img src="https://raw.githubusercontent.com/mproficiency/MPBX/master/Intro.jpg">
+<br><br>
+<h1><b>#Multiverse Proficiency BOX</b></h1>
 
 
 
