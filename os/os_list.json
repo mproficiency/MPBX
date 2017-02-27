@@ -44,28 +44,7 @@
                 "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_Storage.tar.xz"
             ]
         },
-        {
-            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_Pi2.png",
-            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi2/marketing.tar",
-            "nominal_size": 1024,
-            "os_info": "http://downloads.raspberrypi.org/openelec_pi2/os.json",
-            "os_name": "OpenELEC_RPi2",
-            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi2/partition_setup.sh",
-            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi2/partitions.json",
-            "release_date": "2016-03-01",
-            "supported_hex_revisions": "1040,1041,2082",
-            "supported_models": [
-                "Pi 2",
-                "Pi 3"
-            ],
-            "tarballs": [
-                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_System.tar.xz",
-                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_Storage.tar.xz"
-            ]
-        },
-    
-        {
+       {
             "os_name":	    "void2",
             "description":  "A Void Linux port for ARM devices RPi2/3",
             "feature_level": 35644412,
