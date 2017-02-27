@@ -1,0 +1,9 @@
+{
+  "name": "Android",
+  "version": "MM 6.0",
+  "release_date": "2016-02-26",
+  "kernel": "4.1",
+  "description": "Android Tv",
+  "url": "http://www.android.org/",
+  "supported_models": ["Pi Model","Pi 2","Pi Zero","Pi 3"]
+}
