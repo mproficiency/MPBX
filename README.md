@@ -8,7 +8,7 @@ YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE MPBX SERVICE IS A
 
 #INSTALLATION INSTRUCTIONS
 
-1. Insert an SD card that is 4GB or greater in size into your computer.
+1. Insert an SD card that is 64GB or greater in size into your computer.
 2. Format the SD card using the platform-specific instructions below:
    a. Windows
       i. Download the SD Association's Formatting Tool from https://www.sdcard.org/downloads/formatter_4/eula_windows/
@@ -16,6 +16,8 @@ YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE MPBX SERVICE IS A
       iii. Set "FORMAT SIZE ADJUSTMENT" option to "ON" in the "Options" menu
       iv. Check that the SD card you inserted matches the one selected by the Tool
       v. Click the "Format" button
+      vi. Use MiniTool Partition Wizard Free to delete exfat partition just created.https://www.partitionwizard.com/free-partition-manager.html
+      vii. Create a partition of all unused space of fat32 & primary partition.
    b. Mac
       i. Download the SD Association's Formatting Tool from https://www.sdcard.org/downloads/formatter_4/eula_mac/
       ii. Install and run the Formatting Tool on your machine
