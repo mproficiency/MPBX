@@ -1,0 +1,11 @@
+{
+  "name": "Kodi",
+  "version": "8",
+  "release_date": "2017-02-25",
+  "kernel": "4.4.13",
+  "description": "Kodi media centre",
+  "username": "root",
+  "password": "libreelec",
+  "supported_models": ["Pi 2","Pi 3"],
+  "supported_hex_revisions": "1040,1041,2082"
+}
