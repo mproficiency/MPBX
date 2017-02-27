@@ -27,7 +27,7 @@ YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE MPBX SERVICE IS A
    c. Linux
       i. We recommend using gparted (or the command line version parted)
       ii. Format the entire disk as FAT
-3. Extract the files contained in this MPBX zip file.
+3. Extract the files contained in this Recovery.zip file.
 4. Copy the extracted files onto the SD card that you just formatted so that this file is at the root directory of the SD card. Please note that in some cases it may extract the files into a folder, if this is the case then please copy across the files from inside the folder rather than the folder itself.
 5. Insert the SD card into your Pi and connect the power supply.
 
