@@ -1,2 +1,1 @@
-# MPBX
-Multiverse Proficiency BOX
+# Multiverse Proficiency BOX
