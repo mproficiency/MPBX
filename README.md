@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/mproficiency/MPBX/master/Intro.jpg">
+ <img src="https://raw.githubusercontent.com/mproficiency/MPBX/master/resource/Intro.jpg">
 <br><br><br>
 </p>
 <b>DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION </b>
