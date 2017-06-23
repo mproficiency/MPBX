@@ -3,11 +3,11 @@
         {
 
  
-            "release_date": "2016-03-01",
-            "os_name":         "Retropie2",
-            "description":     "Retropie v3.8 gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2016-06-01",
+            "os_name":         "Kodi",
+            "description":     "Kodi media centre",
             "feature_level":   0,
-            "release_date":    "2016-04-14",
+            "release_date":    "2016-06-14",
             "feature_level":   0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
