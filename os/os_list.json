@@ -1,8 +1,6 @@
 {
     "os_list": [
         {
-
- 
             "release_date": "2016-06-01",
             "os_name":         "Kodi",
             "description":     "Kodi media centre",
@@ -14,17 +12,16 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "https://loganlogan845.000webhostapp.com/os.json",
-            "partitions_info": "https://loganlogan845.000webhostapp.com/partitions.json",
-            "icon":            "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/LibreELEC_RPi2.png",
-            "marketing_info":  "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/marketing.tar",
-            "partition_setup": "https://loganlogan845.000webhostapp.com/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partitions.json",
+            "icon":            "http://wiki.libreelec.tv/images/c/c7/Libreelec_icon_color_b_32.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/retropie2/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie.tar.xz"
             ]
         }
-
     ]
 }
