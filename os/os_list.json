@@ -1,27 +1,57 @@
 {
     "os_list": [
+             {
+            "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
+            "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
+            "nominal_size": 512,
+            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
+            "os_name": "Data Partition",
+            "partitions_info": "http://downloads.raspberrypi.org/data_partition/partitions.json",
+            "tarballs": [
+                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
+            ]
+        },
         {
-            "release_date": "2016-06-01",
-            "os_name":         "Kodi",
-            "description":     "Kodi media centre",
-            "feature_level":   0,
-            "release_date":    "2016-06-14",
-            "feature_level":   0,
+            "description": "A fast and feature filled open source media center",
+            "feature_level": 0,
+            "icon": "http://download.osmc.tv/installers/noobs/NOOBS-Logo-2.png",
+            "marketing_info": "http://download.osmc.tv/installers/noobs/marketing.tar",
+            "nominal_size": 1580,
+            "os_info": "http://download.osmc.tv/installers/noobs/os-pi2.json",
+            "os_name": "OSMC_Pi2",
+            "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
+            "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi2.json",
+            "release_date": "2016-05-02",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
-               "Pi 2",
-               "Pi 3"
-            ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partitions.json",
-            "icon":            "http://wiki.libreelec.tv/images/c/c7/Libreelec_icon_color_b_32.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partition_setup.sh",
-            "nominal_size": 1600,
+                "Pi 2",
+                "Pi 3"
+            ],
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie.tar.xz"
+                "http://download.osmc.tv/installers/noobs/boot-rbp2.tar.xz",
+                "http://download.osmc.tv/installers/noobs/root-rbp2.tar.xz"
+            ]
+        },
+
+        {
+            "description": "Recalbox, the open source retro gaming console for rpi3!",
+            "icon": "https://archive.recalbox.com/noobs/recalboxOS.png",
+            "marketing_info": "https://archive.recalbox.com/noobs/marketing.tar",
+            "nominal_size": 2048,
+            "os_info": "https://archive.recalbox.com/noobs/rpi3/os.json",
+            "os_name": "recalboxOS-rpi3",
+            "partition_setup": "https://archive.recalbox.com/noobs/partition_setup.sh",
+            "partitions_info": "https://archive.recalbox.com/noobs/partitions.json",
+            "release_date": "2016-11-26",
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 3"
+            ],
+            "tarballs": [
+                "https://archive.recalbox.com/updates/v1.0/stable/rpi3/boot.tar.xz",
+                "https://archive.recalbox.com/updates/v1.0/stable/rpi3/root.tar.xz"
             ]
         }
+      
     ]
 }
