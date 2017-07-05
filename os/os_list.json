@@ -1,7 +1,7 @@
 {
     "os_list": [
                {
-            "description": "Android TV is a smart TV platform developed by Google",
+            "description": "Android TV is a smart TV platform.",
             "icon": "http://mproficiency.gq/files/os/Android/Android.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 7524,
@@ -22,7 +22,7 @@
             ]
         },  
         {
-            "description": "Kodi is the ultimate entertainment center. Kodi brings your media to life with endless features, a beautiful interface and ease of us",
+            "description": "Kodi is the ultimate entertainment center.",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 3100,
@@ -41,7 +41,7 @@
             ]
         },  
         {
-            "description": "PixelOS is an open-source operating system (OS) based on the Debian GNU/Linux distribution",
+            "description": "PixelOS is an open-source Debian GNU/Linux distribution.",
             "icon": "http://mproficiency.gq/files/os/Pixel/PixelOS.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 8063,
