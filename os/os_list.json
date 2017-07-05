@@ -22,9 +22,9 @@
             ]
         },  
         {
-            "description": "Kodi media centre",
+            "description": "Kodientre",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
-            "marketing_info": "http://mproficiency.gq/files/marketing.tar",
+            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/marketing.tar",
             "nominal_size": 3100,
             "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
             "os_name": "Kodi",
