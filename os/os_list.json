@@ -1,6 +1,6 @@
 {
     "os_list": [
-          {
+               {
             "description": "Kodi media centre",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
@@ -20,36 +20,15 @@
             ]
         },  
         {
-            "os_name":	    "ubuntuMate1604LTS",
-            "description": "Ubuntu Mate 16.04.2 LTS",
-            "release_date": "2016-11-05",
-            "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
-            "supported_models": [
-                "Pi 2",
-                "Pi 3"
-            ],                
-            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/os.json",
-            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
-            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/marketing.tar",
-            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partition_setup.sh",
-            "tarballs": [
-                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/boot_ub.tar.xz",
-                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/root_ub.tar.xz"
-            ],
-            "nominal_size": 4568
-        },
-         {
             "description": "Kodi media centre",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 3100,
             "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
-            "os_name": "Kodi media centre",
+            "os_name": "Kodi",
             "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
-            "release_date": "2017-05-17",
+            "release_date": "2017-06-18",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
@@ -60,17 +39,42 @@
             ]
         },  
         {
-            "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
-            "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
-            "nominal_size": 512,
-            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
-            "os_name": "Data Partition",
-            "partitions_info": "http://downloads.raspberrypi.org/data_partition/partitions.json",
+            "description": "Kodi media centre",
+            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "marketing_info": "http://mproficiency.gq/files/marketing.tar",
+            "nominal_size": 3100,
+            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
+            "os_name": "Kodi",
+            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "release_date": "2017-06-18",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 3"
+            ],
             "tarballs": [
-                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
+                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
+                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
             ]
-        }
-        
-      
+        },  
+        {
+            "description": "Kodi media centre",
+            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "marketing_info": "http://mproficiency.gq/files/marketing.tar",
+            "nominal_size": 3100,
+            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
+            "os_name": "Kodi",
+            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "release_date": "2017-06-18",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 3"
+            ],
+            "tarballs": [
+                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
+                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
+            ]
+        }      
     ]
 }
