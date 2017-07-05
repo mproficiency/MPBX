@@ -1,7 +1,7 @@
 {
     "os_list": [
                {
-            "description": "Android Tv",
+            "description": "Android Tv by Google",
             "icon": "http://mproficiency.gq/files/os/Android/Android.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 7524,
