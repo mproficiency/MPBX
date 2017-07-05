@@ -1,17 +1,9 @@
 {
 	"repo_list" : [
 		{
-			"name" : "NOOBS",
-			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
-		},
-		{
-			"name" : "PINN",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_list_v3.json"
-		},
-		{
-			"name" : "Matt Huisman",
-			"url"  : "https://bitbucket.org/matthuisman/pinn-os/raw/master/os_list_v3.json"
+			"name" : "MPBX",
+			"url"  : "https://raw.githubusercontent.com/mproficiency/MPBX/master/os/os_list.json"
 		}
-	]
+		]
 }
 
