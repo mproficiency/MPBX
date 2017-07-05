@@ -18,8 +18,8 @@
                 "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
                 "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
             ]
-        }
-,        {
+        },  
+        {
             "os_name":	    "ubuntuMate1604LTS",
             "description": "Ubuntu Mate 16.04.2 LTS",
             "release_date": "2016-11-05",
@@ -40,6 +40,25 @@
             ],
             "nominal_size": 4568
         },
+         {
+            "description": "Kodi media centre",
+            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "marketing_info": "http://mproficiency.gq/files/marketing.tar",
+            "nominal_size": 3100,
+            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
+            "os_name": "Kodi media centre",
+            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "release_date": "2017-05-17",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 3"
+            ],
+            "tarballs": [
+                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
+                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
+            ]
+        },  
         {
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
             "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
