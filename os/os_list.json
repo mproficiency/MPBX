@@ -1,6 +1,27 @@
 {
     "os_list": [
-             {
+                {
+            "os_name":	    "ubuntuMate1604LTS",
+            "description": "Ubuntu Mate 16.04.2 LTS",
+            "release_date": "2016-11-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/boot_ub.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/root_ub.tar.xz"
+            ],
+            "nominal_size": 4568
+        },
+        {
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
             "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
             "nominal_size": 512,
