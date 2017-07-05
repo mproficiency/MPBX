@@ -1,22 +1,24 @@
 {
     "os_list": [
                {
-            "description": "Kodi media centre",
-            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "description": "Android Tv",
+            "icon": "http://mproficiency.gq/files/os/Android/Android.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
-            "nominal_size": 3100,
-            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
-            "os_name": "Kodi",
-            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
-            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "nominal_size": 7524,
+            "os_info": "http://mproficiency.gq/files/os/Android/os.json",
+            "os_name": "Android",
+            "partition_setup": "http://mproficiency.gq/files/os/Android/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/Android/partitions.json",
             "release_date": "2017-06-18",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
             ],
             "tarballs": [
-                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
-                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
+                "http://mproficiency.gq/files/os/Android/BOOT.tar.xz",
+                "http://mproficiency.gq/files/os/Android/cache.tar.xz",
+                "http://mproficiency.gq/files/os/Android/data.tar.xz",
+                "http://mproficiency.gq/files/os/Android/system.tar.xz"
             ]
         },  
         {
@@ -39,41 +41,41 @@
             ]
         },  
         {
-            "description": "Kodi media centre",
-            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "description": "Debian base OS",
+            "icon": "http://mproficiency.gq/files/os/Pixel/PixelOS.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
-            "nominal_size": 3100,
-            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
-            "os_name": "Kodi",
-            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
-            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "nominal_size": 8063,
+            "os_info": "http://mproficiency.gq/files/os/Pixel/os.json",
+            "os_name": "PixelOS",
+            "partition_setup": "http://mproficiency.gq/files/os/Pixel/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/Pixel/partitions.json",
             "release_date": "2017-06-18",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
             ],
             "tarballs": [
-                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
-                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
+                "http://mproficiency.gq/files/os/Pixel/Pixboot.tar.xz",
+                "http://mproficiency.gq/files/os/Pixel/root.tar.xz"
             ]
         },  
         {
-            "description": "Kodi media centre",
-            "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
+            "description": "Ultimate retro-gaming console!",
+            "icon": "http://mproficiency.gq/files/os/RetroPie/RetroPie.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
-            "nominal_size": 3100,
-            "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
-            "os_name": "Kodi",
-            "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
-            "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
+            "nominal_size": 15057,
+            "os_info": "http://mproficiency.gq/files/os/RetroPie/os.json",
+            "os_name": "RetroPie",
+            "partition_setup": "http://mproficiency.gq/files/os/RetroPie/partition_setup.sh",
+            "partitions_info": "http://mproficiency.gq/files/os/RetroPie/partitions.json",
             "release_date": "2017-06-18",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
             ],
             "tarballs": [
-                "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
-                "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
+                "http://mproficiency.gq/files/os/RetroPie/Retroboot.tar.xz",
+                "http://mproficiency.gq/files/os/RetroPie/retropie.tar.xz"
             ]
         }      
     ]
