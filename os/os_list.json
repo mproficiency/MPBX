@@ -1,7 +1,7 @@
 {
     "os_list": [
                {
-            "description": "Android Tv by Google",
+            "description": "Android TV is a smart TV platform developed by Google",
             "icon": "http://mproficiency.gq/files/os/Android/Android.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 7524,
@@ -41,7 +41,7 @@
             ]
         },  
         {
-            "description": "Debian base OS",
+            "description": "PixelOS is an open-source operating system (OS) based on the Debian GNU/Linux distribution",
             "icon": "http://mproficiency.gq/files/os/Pixel/PixelOS.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 8063,
