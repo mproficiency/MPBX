@@ -17,10 +17,10 @@
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 3100,
             "os_info": "http://mproficiency.gq/files/os/Kodi/os.json",
-            "os_name": "Kodi",
+            "os_name": "Kodi media centre",
             "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
-            "release_date": "2017-04-07",
+            "release_date": "2017-05-17",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
