@@ -1,7 +1,7 @@
 {
     "os_list": [
           {
-            "description": "Kodi media centre",
+            "description": "Kodi",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 3100,
@@ -9,7 +9,7 @@
             "os_name": "Kodi media centre",
             "partition_setup": "http://mproficiency.gq/files/os/Kodi/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/Kodi/partitions.json",
-            "release_date": "2017-05-17",
+            "release_date": "2017-06-17",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
