@@ -1,6 +1,6 @@
 {
     "os_list": [
-               {
+           /*    {
             "description": "Android TV is a smart TV platform.",
             "icon": "http://mproficiency.gq/files/os/Android/Android.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
@@ -20,7 +20,7 @@
                 "http://mproficiency.gq/files/os/Android/data.tar.xz",
                 "http://mproficiency.gq/files/os/Android/system.tar.xz"
             ]
-        },  
+        },  */
         {
             "description": "Kodi is the ultimate entertainment center.",
             "icon": "http://mproficiency.gq/files/os/Kodi/Kodi.png",
@@ -39,14 +39,14 @@
                 "http://mproficiency.gq/files/os/Kodi/LibreELEC.tar.xz",
                 "http://mproficiency.gq/files/os/Kodi/KODIDATA.tar.xz"
             ]
-        },  
+        }/*,  
         {
             "description": "PixelOS is an open-source Debian GNU/Linux distribution.",
             "icon": "http://mproficiency.gq/files/os/Pixel/PixelOS.png",
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 8063,
             "os_info": "http://mproficiency.gq/files/os/Pixel/os.json",
-            "os_name": "PixelOS (Do not Tick - No Update Available)",
+            "os_name": "PixelOS",
             "partition_setup": "http://mproficiency.gq/files/os/Pixel/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/Pixel/partitions.json",
             "release_date": "2017-06-18",
@@ -65,7 +65,7 @@
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 15057,
             "os_info": "http://mproficiency.gq/files/os/RetroPie/os.json",
-            "os_name": "RetroPie (Do not Tick - No Update Available)",
+            "os_name": "RetroPie",
             "partition_setup": "http://mproficiency.gq/files/os/RetroPie/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/RetroPie/partitions.json",
             "release_date": "2017-06-18",
@@ -77,6 +77,6 @@
                 "http://mproficiency.gq/files/os/RetroPie/Retroboot.tar.xz",
                 "http://mproficiency.gq/files/os/RetroPie/retropie.tar.xz"
             ]
-        }      
+        }  */    
     ]
 }
