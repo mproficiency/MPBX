@@ -6,7 +6,7 @@
             "marketing_info": "http://mproficiency.gq/files/marketing.tar",
             "nominal_size": 7524,
             "os_info": "http://mproficiency.gq/files/os/Android/os.json",
-            "os_name": "Android (Do not Tick - No Update Available)",
+            "os_name": "Android",
             "partition_setup": "http://mproficiency.gq/files/os/Android/partition_setup.sh",
             "partitions_info": "http://mproficiency.gq/files/os/Android/partitions.json",
             "release_date": "2017-06-18",
